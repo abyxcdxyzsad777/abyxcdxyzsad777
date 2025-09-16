@@ -154,4 +154,4 @@ Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">M
 
 <a href="#top">Back to top</a>
 
-*Readme created with [Simple Readme](https://marketplace.visualstudio.com/items?itemName=maurodesouza.vscode-simple-readme)*
+*Readme created with abbyx*
