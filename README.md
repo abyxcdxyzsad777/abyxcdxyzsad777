@@ -58,8 +58,11 @@
 ###
 
 ###
+<div align="center">
 
-<img align="center" height="120" src="https://i.pinimg.com/originals/8e/c9/7a/8ec97a50d704a7aea10c39ef4f0757bf.gif"  />
+<img align="" height="120" src="https://i.pinimg.com/originals/8e/c9/7a/8ec97a50d704a7aea10c39ef4f0757bf.gif"  />
+
+</div>
 
 ###
 
