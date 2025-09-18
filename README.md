@@ -46,6 +46,18 @@
 </div>
 
 ###
+👋 Hi, I’m **Abbyx** — a passionate **Manager, Developer, Artist, Data Scientist, and UI/UX Designer** with a strong drive to connect technology, art, and innovation. I enjoy working on projects that allow me to blend analytical thinking with creativity, and I constantly look for new opportunities to learn and grow.
+
+💻 My technical background covers a wide range of tools and languages. I work with **C#, C++, Python, and JavaScript**, and I have hands-on experience with frameworks such as **Unity** for game development and **React** for web applications. I also focus on writing clean, maintainable code and building products that deliver real value.
+
+🎨 On the creative side, I’m deeply interested in **2D/3D art, UI/UX design, and digital experiences**. I enjoy using tools like **Blender, Photoshop, and Figma** to bring concepts to life, and I believe great design is just as important as strong functionality when building engaging digital products.
+
+🎶 Beyond coding and design, I also explore music and digital art. Creating melodies and experimenting with sound design not only inspires me but also influences the way I approach problem-solving — balancing logic with imagination.
+
+🌍 I’m committed to continuous growth. My current goals are to **expand my knowledge of AI and data science**, publish more open-source projects, and collaborate with developers, designers, and creators around the world. I believe that technology has the power to create meaningful impact, and I want to contribute to that journey.
+###
+
+###
 
 <img align="left" height="120" src="https://i.pinimg.com/originals/8e/c9/7a/8ec97a50d704a7aea10c39ef4f0757bf.gif"  />
 
